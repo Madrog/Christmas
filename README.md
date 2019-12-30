@@ -1,2 +1,2 @@
 # Christmas
-# Blog Projects in Flask 
+# Blog Projects using Python Framework (Flask & Django)
